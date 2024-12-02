@@ -10,3 +10,12 @@ English - Plain Text
 English - PDF  
 German - Plain Text  
 German - PDF  
+
+## Description de l'Égypte.
+
+French - Plain Text  
+French - PDF | Biolinum | Kerkis | Auriocus  
+English - Plain Text  
+English - PDF  
+German - Plain Text  
+German - PDF  
